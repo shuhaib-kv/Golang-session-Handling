@@ -1,10 +1,10 @@
 # Golang-session-Handling
-This is a mini-project for session handling 
-Database-PSQL
-Backend-GOLANG
-Frontend-HTML & CSS
--two modules
---Admin 
+This is a mini-project for session handling <br>
+Database-PSQL <br>
+Backend-GOLANG <br>
+Frontend-HTML & CSS <br>
+-two modules <br>
+--Admin  <br>
 *Admin Login
 *Admin User Management
 *Admin Can view Users 
