@@ -5,11 +5,11 @@ Backend-GOLANG <br>
 Frontend-HTML & CSS <br>
 -two modules <br>
 --Admin  <br>
-*Admin Login
-*Admin User Management
-*Admin Can view Users 
-*Admin can Block or Unblock Users
+*Admin Login <br>
+*Admin User Management <br>
+*Admin Can view Users  <br>
+*Admin can Block or Unblock Users <br>
 
---User
-*User L0gin
-*User SIgnUp
+--User <br>
+*User Login <br>
+*User SIgnUp <br>
